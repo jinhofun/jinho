@@ -4,6 +4,5 @@
 ### 판넬 다운로드 링크
 http://naver.me/G1vF0KcH
 
-![Alt Text](jinho/신동욱교수님 프로젝트/갑분디판넬_300dpi_CMYK_2.jpg)
 
 - 마크다운 갱신일자 2018-10-05 12:19
